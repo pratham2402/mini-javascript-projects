@@ -158,3 +158,10 @@ Now wait, until _your Pull Request_ is approved! If there are any conflicts, you
 
 <br>
 
+
+## ![image](https://github.com/ndleah/python-mini-project/blob/main/IMG/like.svg) Our Contributors
+
+<a href="https://github.com/pratham2402/mini-javascript-projects/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pratham2402/mini-javascript-projects" />
+</a>
+
