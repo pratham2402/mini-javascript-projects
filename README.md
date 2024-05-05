@@ -158,6 +158,13 @@ Now wait, until _your Pull Request_ is approved! If there are any conflicts, you
 
 <br>
 
+## ![image](https://github.com/ndleah/python-mini-project/blob/main/IMG/like.svg) Projects
+
+| Sr No | Project                                                                                                               | Description                                                                                                                                                                                                                                                                                              | Author                                                     |
+| ----- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 1     | [Counter](https://github.com/pratham2402/mini-javascript-projects/tree/main/Counter)            | This is a simple counter made using Javascript.                                                                                                                                                                                                                                                      | [Pratham Bhosale](https://github.com/pratham2402)                   |
+| 2     | [Color Flipper](https://github.com/pratham2402/mini-javascript-projects/tree/main/Color%20Flipper)            | This is a simple color flipper made using Javascript. Get random colors and respective hex codes by clicking the button                                                                                                                                                                                                                                                     | [Pratham Bhosale](https://github.com/pratham2402)                   |
+
 
 ## ![image](https://github.com/ndleah/python-mini-project/blob/main/IMG/like.svg) Our Contributors
 
