@@ -13,6 +13,12 @@
 > A collection of easy & small javascript projects to help you improve your programming skills.
 
 
+## ![image](https://github.com/ndleah/python-mini-project/blob/main/IMG/aiming.svg) Aim Of The Project
+
+Welcome to JS Playroom 🎉
+
+Whether you're a curious newbie dipping your toes into the vast ocean of JavaScript or a seasoned developer looking to share your wisdom, you've found the perfect spot! This playground is where we come together to learn, collaborate, and have fun with JavaScript projects.
+
 ## ![image](https://raw.githubusercontent.com/ndleah/python-mini-project/main/IMG/game-ps.svg) Contributing
 
 <details>
@@ -170,5 +176,17 @@ Now wait, until _your Pull Request_ is approved! If there are any conflicts, you
 
 <a href="https://github.com/pratham2402/mini-javascript-projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pratham2402/mini-javascript-projects" />
+</a>
+
+## ![image](https://github.com/ndleah/python-mini-project/blob/main/IMG/muscle.svg) Feedback
+
+If you have any feedback or ideas to improve this project, feel free to contact me via
+
+<a href="www.linkedin.com/in/pratham-bhosale">
+  <img align="left" alt="Pratham's's Linked-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+</a>
+<a href="https://github.com/pratham2402">
+  <img align="left" alt="Pratham's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
