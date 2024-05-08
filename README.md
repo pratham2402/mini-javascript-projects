@@ -164,6 +164,12 @@ Now wait, until _your Pull Request_ is approved! If there are any conflicts, you
 
 <br>
 
+## ![image](https://github.com/ndleah/python-mini-project/blob/main/IMG/bookmark.svg) README Template for scripts
+
+please make sure to add a `README.md` file that follow the same construction as this template for consistency.
+
+[README Template](https://github.com/pratham2402/mini-javascript-projects/blob/main/README_TEMPLATE.md)
+
 ## ![image](https://github.com/ndleah/python-mini-project/blob/main/IMG/like.svg) Projects
 
 | Sr No | Project                                                                                                               | Description                                                                                                                                                                                                                                                                                              | Author                                                     |
